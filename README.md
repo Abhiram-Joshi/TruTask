@@ -1,6 +1,8 @@
 # TruTask - A role based task manager app
 
+## Must Read!
 <span style="color:red">This repository contains a single commit because I developed this project as a task-based activity in a separate repository.</span>
+
 
 ## Important Notes Before We Start
 
