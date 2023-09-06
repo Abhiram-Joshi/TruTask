@@ -1,4 +1,6 @@
-# Engineering Task
+# TruTask - A role based task manager app
+
+<span style="color:red">This repository contains a single commit because I developed this project as a task-based activity in a separate repository.</span>
 
 ## Important Notes Before We Start
 
@@ -7,8 +9,8 @@
 - Users have been divided into 2 categories: admin and non-admin. Signing up as a user creates a non-admin user by default. Giving a user admin privileges will require you to change the value of the *is_admin* field of the corresponding user to 1.
 
 
-## Problem Statement
-Build a robust containerized task management system to handle user  authentication, authorization and access management.
+<!-- ## Problem Statement
+Build a robust containerized task management system to handle user  authentication, authorization and access management. -->
 
 
 
